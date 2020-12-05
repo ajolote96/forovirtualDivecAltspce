@@ -1,8 +1,5 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp.dll:
-    - LookX
-    - Player
     Unity.EditorCoroutines.Editor.dll:
     - AltspaceBuildWindow
     - UserPreferences
@@ -19,7 +16,7 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
   sceneClasses:
-    Assets/Altspace/Export/template.unity:
+    Assets/Altspace/Export/template2.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -38,7 +35,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 64
       Script: {instanceID: 0}
-    - Class: 65
+    - Class: 89
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -48,8 +45,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
   scriptHashData: []
   platform: 5
   scenePathNames:
-  - Assets/Altspace/Export/template.unity
-  playerPath: C:/Users/casit/Foro Divec AltSpace/AltspaceTemp/AssetBundles/template.unity2018_1
+  - Assets/Altspace/Export/template2.unity
+  playerPath: C:/Users/casit/Foro Divec AltSpace/AltspaceTemp/AssetBundles/template2.unity2018_1
